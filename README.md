@@ -29,16 +29,13 @@ Java-Simple-Calculator/
 
 ## ▶️ How to Run
 1. Clone the repository:
+2. https://github.com/darshan-kharvi09/Java-Calculator-/blob/2ed72f78345df986603a03568bb9a84b2e6ab198/SimpleCalculator.java
 
 
-markdown
-Copy code
 
 2. Compile the program:
 javac Calculator.java
 
-markdown
-Copy code
 
 3. Run the program:
 java Calculator
