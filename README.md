@@ -28,8 +28,7 @@ Java-Simple-Calculator/
 └── README.md
 
 ## ▶️ How to Run
-1. Clone the repository:
-2. https://github.com/darshan-kharvi09/Java-Calculator-/blob/2ed72f78345df986603a03568bb9a84b2e6ab198/SimpleCalculator.java
+1. Clone the repository: https://github.com/darshan-kharvi09/Java-Calculator-/blob/2ed72f78345df986603a03568bb9a84b2e6ab198/SimpleCalculator.java
 
 
 
