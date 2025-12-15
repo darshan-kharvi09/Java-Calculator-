@@ -1,4 +1,4 @@
-# # Java Simple Calculator
+ # Java Simple Calculator
 
 A basic console-based calculator application developed using Java.  
 This project demonstrates fundamental Java concepts such as conditional statements, loops, and user input handling.
